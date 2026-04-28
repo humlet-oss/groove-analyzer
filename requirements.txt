@@ -8,3 +8,4 @@ basic-pitch
 tensorflow
 tf-keras
 setuptools
+resampy>=0.4.0
