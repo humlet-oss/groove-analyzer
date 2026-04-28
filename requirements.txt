@@ -7,3 +7,4 @@ plotly
 basic-pitch
 tensorflow
 tf-keras
+setuptools
