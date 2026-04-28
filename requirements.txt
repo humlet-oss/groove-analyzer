@@ -1,0 +1,9 @@
+streamlit
+librosa
+pretty_midi
+numpy
+pandas
+plotly
+basic-pitch
+tensorflow
+tf-keras
